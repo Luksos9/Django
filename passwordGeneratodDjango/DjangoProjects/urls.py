@@ -15,7 +15,7 @@ Including another URLconf
 """
 
 from django.urls import path
-from generator import views
+from passwordGeneratodDjango.generator import views
 
 urlpatterns = [
     path('', views.home, name='home'),
