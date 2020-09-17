@@ -6,4 +6,4 @@
 - Uppercase characters
 - special characters in password
 
-# Purpose of this program was to get write something in Django to solidify my knowledge.
+#### Purpose of this program was to get write something in Django to solidify my knowledge.
